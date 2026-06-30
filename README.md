@@ -194,11 +194,9 @@ Microsoft-Fabric-End-to-End-Data-Engineering
 ├── notebooks
 ├── pipelines
 ├── sql
-├── datasets
+├── sample data
 ├── architecture
 ├── screenshots
-├── documentation
-├── powerbi
 └── README.md
 ```
 
