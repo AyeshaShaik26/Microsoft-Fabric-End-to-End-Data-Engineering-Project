@@ -1,4 +1,5 @@
 # Microsoft Fabric End-to-End Data Engineering Project
+<img width="1337" height="666" alt="Architecture_Diagram" src="https://github.com/user-attachments/assets/523687fa-d47a-4629-ae3e-39bbd69c7e00" />
 
 ## Overview
 
